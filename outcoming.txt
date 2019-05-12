@@ -1,0 +1,11 @@
+Estado inicial -> q1
+Símbolo lido -> 0
+Estados correntes -> q1  
+Símbolo lido -> 1
+Estados correntes -> q1  q1 
+Símbolo lido -> 0
+Estados correntes -> q1  q1 q2 
+Símbolo lido -> 1
+Estados correntes -> q1  q1 q2 q3 
+Estado final -> ['q4']
+Sequencia Aceita
