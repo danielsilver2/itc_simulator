@@ -15,8 +15,9 @@ Este arquivo contém os dados de execução do algorítmo, este se compõem em:
   "group": ["q1", "q2", "q3"], # Contém todo o conjunto de estados
   "alphabet": [0, 1], # Alfabeto aceito
   "sequence": [0, 1, 0, 1, 1, 1], # Conjunto de sequência
-  "matrix":     #  Matriz de estados, deve ser composto por um array geral, um objeto com um estado como chave, e em 
-    [           # relação com essa chave, um array contento um estado como chave e em relação com essa chave, um array             { "q1": [ # contendo os valores aceitos naquele estado
+  "matrix":     #  Matriz de estados, deve ser composto por um array geral, um objeto com um estado 
+    [           # como chave, e em relação com essa chave, um array contento um estado como chave e
+      { "q1": [ #  em relação com essa chave, um array contendo os valores aceitos naquele estado
           {"q2":[1]},
           {"q1":[0,1]}
         ]
