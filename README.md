@@ -42,6 +42,6 @@ Este arquivo contém os dados de execução do algorítmo, este se compõem em:
 
 # Resultado
 
-O resultado do algorítmo é gerado em outcoming_result.txt
+O resultado do algorítmo é gerado em [outcoming_result.txt](outcoming_result.txt)
 
-A sequência do algorítmo é gerado em outcoming.txt
+A sequência do algorítmo é gerado em [outcoming.txt](outcoming.txt)
