@@ -8,6 +8,9 @@ Se trata de um Simulador de Autômato Finitito Não Determinístico - AFN, foi d
 
 O algorítmo lê um arquivo com o serviço [file_service](file_service.py) e lê um arquivo .json que fica localizado em [incoming.json](incoming.json).
 
+Para gerar gráficos, o algorítmo utiliza a biblioteca https://pypi.org/project/graphviz/, que pode ser instalada via 
+pip: https://pypi.org/project/pip/
+
 Este arquivo contém os dados de execução do algorítmo, este se compõem em:
 
 ```
